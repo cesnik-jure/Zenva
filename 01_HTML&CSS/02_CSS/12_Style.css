@@ -1,0 +1,19 @@
+body {
+	font-size: 16px;
+}
+
+p {
+	font-size: 1rem;
+	font-family: Arial, Courier;
+}
+
+.keypoint {
+	font-style: italic;
+	font-weight: bolder;
+	text-decoration: underline wavy green;
+	font-size: 2rem;	
+}
+
+.newFont {
+	font-family: Raleway, sans-serif;
+}
